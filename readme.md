@@ -1,5 +1,5 @@
 # Dokumentáció
 
-Ebben a kísérletben létrehoztuk az első repo-nkat.
+Ebben a kísérletben létrehoztuk az első Github repo-nkat.
 
-Ne feledd az account.js-ben API kulcsot
+Ne feledd az account.js-ben az API kulcsot
